@@ -1,5 +1,4 @@
-Absolutely! Here are 10 tricky objective questions on loops in Java, designed to test your understanding:
-
+# Loop Objective Questions
 **1. Infinite Loop:**
 
 ```java
